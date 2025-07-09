@@ -115,7 +115,7 @@ function App() {
       <table>
         <thead>
           <tr>
-            <th>Nombre</th>
+            <th>Nombre del estudiante</th>
             <th>Asignatura</th>
             <th>Promedio</th>
             <th>Escala</th>
